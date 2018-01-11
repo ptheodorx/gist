@@ -1,0 +1,59 @@
+{
+	"axios": {
+		"prefix": "axios",
+		"body": [
+			"axios.$1($2, {$3}).then(response => {",
+			"\t$4",
+			"}).catch(error => this.reportEnsoException(error));"
+		],
+		"description": "axios"
+	},
+	"console.log": {
+		"prefix": "''",
+		"body": [
+			"console.log($1);"
+		],
+		"description": "add console log"
+	},
+	"vue component": {
+		"prefix": "vuecom",
+		"body": [
+			"<template>",
+			"\\t",
+			"\\t$1",
+			"",
+			"</template>",
+			"",
+			"<script>",
+			"",
+			"\\texport default {",
+			"\\t\\tname: '$2',",
+			"",
+			"\\t\\tprops: {$3},",
+			"",
+			"\\t\\tcomputed: {$4},",
+			"",
+			"\\t\\tdata() {",
+			"\\t\\t\\treturn {$5}",
+			"\\t\\t},",
+			"",
+			"\\t\\twatch: {$6},",
+			"",
+			"\\t\\tcreated() {$7},",
+			"",
+			"\\t\\tmethods: {$7},",
+			"",
+			"\\t\\tmounted() {$8},",
+			"\\t};",
+			"",
+			"</script>",
+			"",
+			"<style>",
+			"\\t",
+			"\\t$9",
+			"",
+			"</style>"
+		],
+		"description": "vue component boilerplate"
+	}
+}

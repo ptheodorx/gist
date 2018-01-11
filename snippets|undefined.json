@@ -1,0 +1,9 @@
+{
+	"undefined": {
+		"body": [
+			"axios.method('route', {params}).then(response => {",
+			"\\t// code",
+			"}).catch(error => this.reportEnsoException(error));"
+		]
+	}
+}

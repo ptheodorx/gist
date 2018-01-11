@@ -1,1 +1,192 @@
-// Empty
+[
+  {
+    "metadata": {
+      "id": "d3836729-9cc1-42c1-b2af-d50071f57d29",
+      "publisherId": "formulahendry.auto-close-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-close-tag",
+    "publisher": "formulahendry",
+    "version": "0.5.5"
+  },
+  {
+    "metadata": {
+      "id": "2dd41a16-fc28-4680-a274-a850fa5f1098",
+      "publisherId": "calebporzio.better-phpunit",
+      "publisherDisplayName": "calebporzio"
+    },
+    "name": "better-phpunit",
+    "publisher": "calebporzio",
+    "version": "0.5.3"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "2.8.7"
+  },
+  {
+    "metadata": {
+      "id": "aae00486-7e92-42b3-91b0-2b419e4f3875",
+      "publisherId": "vincaslt.highlight-matching-tag",
+      "publisherDisplayName": "vincaslt"
+    },
+    "name": "highlight-matching-tag",
+    "publisher": "vincaslt",
+    "version": "0.4.4"
+  },
+  {
+    "metadata": {
+      "id": "be992f3f-9f22-4b66-a1d2-ecad04c28a28",
+      "publisherId": "abusaidm.html-snippets",
+      "publisherDisplayName": "abusaidm"
+    },
+    "name": "html-snippets",
+    "publisher": "abusaidm",
+    "version": "0.2.1"
+  },
+  {
+    "metadata": {
+      "id": "b06b65b2-6ea9-4045-b166-54aa63205261",
+      "publisherId": "junstyle.php-cs-fixer",
+      "publisherDisplayName": "junstyle"
+    },
+    "name": "php-cs-fixer",
+    "publisher": "junstyle",
+    "version": "0.1.55"
+  },
+  {
+    "metadata": {
+      "id": "5e69f001-f945-4c97-baf0-320d82a153b3",
+      "publisherId": "felixfbecker.php-intellisense",
+      "publisherDisplayName": "felixfbecker"
+    },
+    "name": "php-intellisense",
+    "publisher": "felixfbecker",
+    "version": "2.2.5"
+  },
+  {
+    "metadata": {
+      "id": "651dce1f-eda8-4a5b-aa26-0d1266de8ed1",
+      "publisherId": "MehediDracula.php-namespace-resolver",
+      "publisherDisplayName": "MehediDracula"
+    },
+    "name": "php-namespace-resolver",
+    "publisher": "MehediDracula",
+    "version": "0.9.8"
+  },
+  {
+    "metadata": {
+      "id": "67e66172-30c7-4478-8f5d-6eac4ae755dc",
+      "publisherId": "mohsen1.prettify-json",
+      "publisherDisplayName": "mohsen1"
+    },
+    "name": "prettify-json",
+    "publisher": "mohsen1",
+    "version": "0.0.3"
+  },
+  {
+    "metadata": {
+      "id": "e2ad15c4-7c46-48a9-96c4-9b0cf61f5271",
+      "publisherId": "junv.recent-files",
+      "publisherDisplayName": "junv"
+    },
+    "name": "recent-files",
+    "publisher": "junv",
+    "version": "1.1.9"
+  },
+  {
+    "metadata": {
+      "id": "d6ba4b7b-539f-456a-b0f6-0348df44cdf3",
+      "publisherId": "nikitaKunevich.snippet-creator",
+      "publisherDisplayName": "nikitaKunevich"
+    },
+    "name": "snippet-creator",
+    "publisher": "nikitaKunevich",
+    "version": "0.0.4"
+  },
+  {
+    "metadata": {
+      "id": "529697b9-b343-4b1c-ba2f-f5ef692132d4",
+      "publisherId": "ms-vscode.sublime-keybindings",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "sublime-keybindings",
+    "publisher": "ms-vscode",
+    "version": "3.0.3"
+  },
+  {
+    "metadata": {
+      "id": "d477f472-4e0f-4b5c-bb35-b7c157fa4eb8",
+      "publisherId": "rafamel.subtle-brackets",
+      "publisherDisplayName": "rafamel"
+    },
+    "name": "subtle-brackets",
+    "publisher": "rafamel",
+    "version": "2.1.0"
+  },
+  {
+    "metadata": {
+      "id": "2f5dd8cb-d251-4d70-abfe-ddebcb077483",
+      "publisherId": "octref.vetur",
+      "publisherDisplayName": "octref"
+    },
+    "name": "vetur",
+    "publisher": "octref",
+    "version": "0.11.5"
+  },
+  {
+    "metadata": {
+      "id": "e2756140-a0d7-4166-a62f-a682fb2dd1e7",
+      "publisherId": "rmarganti.vsc-material-facebook-theme",
+      "publisherDisplayName": "rmarganti"
+    },
+    "name": "vsc-material-facebook-theme",
+    "publisher": "rmarganti",
+    "version": "1.1.0"
+  },
+  {
+    "metadata": {
+      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+      "publisherId": "dbaeumer.vscode-eslint",
+      "publisherDisplayName": "dbaeumer"
+    },
+    "name": "vscode-eslint",
+    "publisher": "dbaeumer",
+    "version": "1.4.3"
+  },
+  {
+    "metadata": {
+      "id": "d637104e-1fd7-4063-98fc-8afe46012c9b",
+      "publisherId": "sleistner.vscode-fileutils",
+      "publisherDisplayName": "sleistner"
+    },
+    "name": "vscode-fileutils",
+    "publisher": "sleistner",
+    "version": "2.7.1"
+  },
+  {
+    "metadata": {
+      "id": "77b70e30-3534-4098-9d6d-382a96babca4",
+      "publisherId": "dkundel.vscode-new-file",
+      "publisherDisplayName": "dkundel"
+    },
+    "name": "vscode-new-file",
+    "publisher": "dkundel",
+    "version": "4.0.1"
+  },
+  {
+    "metadata": {
+      "id": "c8d95916-cf54-455f-b324-cbd887b7d3a8",
+      "publisherId": "sdras.vue-vscode-snippets",
+      "publisherDisplayName": "sdras"
+    },
+    "name": "vue-vscode-snippets",
+    "publisher": "sdras",
+    "version": "1.3.0"
+  }
+]
