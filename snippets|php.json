@@ -53,8 +53,7 @@
 	"memory usage": {
 		"prefix": "memory",
 		"body": [
-			"$msg = 'Memory Usage: ' . round(xdebug_peak_memory_usage()/1048576, 2) . 'MB';",
-			"\\Log::info($msg);"
+			"\\Log::info('Memory Usage: '.round(memory_get_peak_usage() / 1048576, 2).'MB');"
 		],
 		"description": "log memory usage"
 	},
